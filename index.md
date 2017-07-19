@@ -1,123 +1,32 @@
----
-layout: default
----
+![alt text](https://i.ytimg.com/vi/sAji7pA9Sc0/maxresdefault.jpg)
+# About BKAPSEC-OS 
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+BKAPSEC is an Ubuntu/Debian-based penetration testing distribution for penetration testers and security researchers. The repository contains 140 tools. You can install tools individually or in groups. BKAPSEC-OS is compatible with existing Ubuntu/Debian installs. For more information, see the installation instructions.
 
-[Link to another page](another-page).
+Please note that BKAPSEC is a relatively new project. To report bugs and request new tools, please visit the issue tracker on Github, stop by Fange, or email us.
 
-There should be whitespace between paragraphs.
+Get Involved
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+You can get in touch with the BKAPSEC team. Just check out the following:
 
-# [](#header-1)Header 1
+Please, send us pull requests!
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Web: https://www.bkapsec.org/
 
-## [](#header-2)Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### [](#header-3)Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
+Mail: bkapsec@gmail.com 
 
 
-### Definition lists can be used with HTML syntax.
+Download and Installation !
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+I am  <a href="https://archive.org/download/TrautechOS/bkapsec-2017.04.26x64.7z"> Here </a> ![alt text](https://github.com/bkapsec/Bkap-site/blob/master/icon.png)
+#
+Torrent <a href="https://archive.org/download/TrautechOS/TrautechOS_archive.torrent"> Here </a> ![alt text](https://github.com/bkapsec/Bkap-site/blob/master/icon.png)
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
+
+                                                                     
+                HTC Building,236B & 238 Hoang Quoc Viet, Tu Liem , Ha Noi , Viet Nam
+                                                                                    
+                            Tel : 04.3755.4010/ 04.3755.4011
+                                                                                 
+                                                                                  
