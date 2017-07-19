@@ -20,23 +20,22 @@ Mail: bkapsec@gmail.com
 
 Download and Installation !
 
-  __ _  ___| ___| / /_  / /_ | |__|___ \| || | | || |   __ _ / _ \ / _ \  __| |
- / _` |/ __|___ \| '_ \| '_ \| '_ \ __) | || |_| || |_ / _` | | | | (_) |/ _` |
-| (_| | (__ ___) | (_) | (_) | |_) / __/|__   _|__   _| (_| | |_| |\__, | (_| |
- \__,_|\___|____/ \___/ \___/|_.__/_____|  |_|    |_|  \__,_|\___/   /_/ \__,_|
-                                                                               
-  __    ___ ____  _  __  ____ ____  ___   __  ____  _      ___ _____    ____  
- / /_  ( _ )___ \/ |/ /_| ___|___ \( _ ) / /_| ___|| |__  / _ \___  |__|___ \ 
-| '_ \ / _ \ __) | | '_ \___ \ __) / _ \| '_ \___ \| '_ \| | | | / / _ \ __) |
-| (_) | (_) / __/| | (_) |__) / __/ (_) | (_) |__) | |_) | |_| |/ /  __// __/ 
- \___/ \___/_____|_|\___/____/_____\___/ \___/____/|_.__/ \___//_/ \___|_____|
-                                                                              
- ____   __     _  ___  
-| ___| / _| __| |/ _ \ 
-|___ \| |_ / _` | (_) |
- ___) |  _| (_| |\__, |
-|____/|_|  \__,_|  /_/ 
-                       
+D7cjq3TtraAicUs2yr0YdCiGHU71KGAMwhQIKZ7IxqUcVwDNTxd3wSVeC6GdRph4
+5htgIWY3GTw7sjMdkFtZK8QsnmfCuIm+GYGiDqT63lpsBwle0KG3GgvU29OZD91G
+323jsXHK+tw4Dvx2lpGfZ+1lNxFZWhLvSjllkNRtkBHOA5BKYOC9EaPktKdq25Ou
+POuw3j++iFd3fNqlebQKC4luCp9AG/BfvjM2EwARAQABiQIlBBgBCAAPBQJTPqHm
+AhsMBQkJZgGAAAoJEPuBHb1p2hqMke8P/0+O0WYVhBOuzi4V1KBuVZW1CeWNngM/
+dEugOZn4GX+MdMPiVuM34LAxcZUWfdhLs1ebsGOKcUSn+aa6xYfotnhWGxxWUoRs
+vgtRa7oDKXAEp2/b6QbXUPlK1htrK7kQtdvzqAVktKzWUp8XJxLSMOaN0B6ocS2p
+vL2cFs5TPApHvaK0GvmtaC/REcRTgctey0EPzFaCsMAZ3Pxc9b+2rhMYozSkhs0O
+gga/EfvhF5+LmB9mtFKGjomrUX7IPwUJ3RPuPZ63MTLqkZLtX833xx1aN4r/u5mD
+3KI3rSgrtvDx7zBk0AnN9t9pI5WtEmK7vs1PhDJ+3TIG4Y8cL1u7U91/BE2CdoRB
+yHGmJZ5vcmhCbQVWHIqXFw5V9FVjN3ZehmwtQTGkBThgvA4WKOD03Q9DtJKMoPgz
+tiukTPBE4ez8zj5vR5SoR3fCWCUBJD+jBKyB+N+KAWUVsnwFKe07dsEAb2Gm6/aF
+APChjN9MGeDV0JQR85w7wdGGtDVCNk/Rpg7JMbTgrKB3R1LERbjsOQG3+UeWwUWS
+PGccf30uvPcpEVj6SFl78/OjL/xsZYn2+gOGvwChg2UzYJ53r04aPVFyAU4bt8QO
+uH6Xyl34RAPjnQdQwMWmwTIv97lJaGU/KCW+RAxXX4iPLXN7GaVZRxQIwYAS4NSP
+
 
 
 
