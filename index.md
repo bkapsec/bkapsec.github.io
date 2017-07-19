@@ -18,7 +18,7 @@ Mail: bkapsec@gmail.com
 
 Download and Installation !
 
-![alt text](https://github.com/bkapsec/Bkap-site/blob/master/smile%20(1).png)
+![alt text](http://diembaomang.com/images/dantri.com.vn/2017_01_12/dantri.com.vn-201701121915387/13-1484211359279.jpg)
 
 
 
