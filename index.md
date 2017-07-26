@@ -13,12 +13,13 @@ You can get in touch with the BKAPSEC team. Just check out the following:
 
 Please, send us pull requests!
 
-Web: https://www.bkapsec.org/
+Web: www.bksec.org/
+
 
 Mail: bkapsec@gmail.com 
 
 <a href="https://archive.org/download/TrautechOS/bkapsec-2017.04.26x64.7z">Download</a> and Install !
-
+Default (User:bkap / Password:root)
 D7cjq3TtraAicUs2yr0YdCiGHU71KGAMwhQIKZ7IxqUcVwDNTxd3wSVeC6GdRph4
 5htgIWY3GTw7sjMdkFtZK8QsnmfCuIm+GYGiDqT63lpsBwle0KG3GgvU29OZD91G
 323jsXHK+tw4Dvx2lpGfZ+1lNxFZWhLvSjllkNRtkBHOA5BKYOC9EaPktKdq25Ou
