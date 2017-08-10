@@ -20,14 +20,7 @@ Mail: bkapsec@gmail.com
 
 <a href="https://archive.org/download/TrautechOS/bkapsec-2017.04.26x64.7z">Download</a> and Install !
 Default (User:bkap / Password:root)
-
-  
-<br/>   ____  _  ______  _____ ____ <br/>  
-<br/>  | __ )| |/ / ___|| ____/ ___| <br/>  
-<br/>  |  _ \| ' /\___ \|  _|| |      <br/>  
-<br/>  | |_) | . \ ___) | |__| |___    <br/>  
-<br/>  |____/|_|\_\____/|_____\____|     <br/>  
- <br/>                              
+--------------------------------------------------
 <br/> OS Type: Linux<br/>                                      
 <br/> Based on: Debian<br/>                                       
 <br/> Origin: Vìet Nam<br/>                                   
@@ -36,11 +29,8 @@ Default (User:bkap / Password:root)
 <br/> Category: Desktop, Security<br/>                       
 <br/> Release Model: Fixed<br/>              
 <br/>  Status: Active<br/>           
+----------------------------------------------------
 
-D7cjq3TtraAicUs2yr0YdCiGHU71KGAMwhQIKZ7IxqUcVwDNTxd3wSVeC6GdRph4
-5htgIWY3GTw7sjMdkFtZK8QsnmfCuIm+GYGiDqT63lpsBwle0KG3GgvU29OZD91G
-323jsXHK+tw4Dvx2lpGfZ+1lNxFZWhLvSjllkNRtkBHOA5BKYOC9EaPktKdq25Ou
-POuw3j++iFd3fNqlebQKC4luCp9AG/BfvjM2EwARAQABiQIlBBgBCAAPBQJTPqHm
 AhsMBQkJZgGAAAoJEPuBHb1p2hqMke8P/0+O0WYVhBOuzi4V1KBuVZW1CeWNngM/
 dEugOZn4GX+MdMPiVuM34LAxcZUWfdhLs1ebsGOKcUSn+aa6xYfotnhWGxxWUoRs
 vgtRa7oDKXAEp2/b6QbXUPlK1htrK7kQtdvzqAVktKzWUp8XJxLSMOaN0B6ocS2p
