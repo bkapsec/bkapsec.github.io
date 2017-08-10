@@ -21,16 +21,14 @@ Mail: bkapsec@gmail.com
 <a href="https://archive.org/download/TrautechOS/bkapsec-2017.04.26x64.7z">Download</a> and Install !
 Default (User:bkap / Password:root)
 
- # _______                  
- #< BKSEC OS >              
-  #--------                 
-    #    \   ^__^            
-    #     \  (oo)\_______          
-    #        (__)\       )\/\       
-    #            ||----w |          
-    #            ||     ||         
-
-<br/> OS Type: Linux<br/>                                      
+  
+ ____  _  ______  _____ ____ 
+| __ )| |/ / ___|| ____/ ___|
+|  _ \| ' /\___ \|  _|| |    
+| |_) | . \ ___) | |__| |___ 
+|____/|_|\_\____/|_____\____|
+                             
+  <br/> OS Type: Linux<br/>                                      
 <br/> Based on: Debian<br/>                                       
 <br/> Origin: Vìet Nam<br/>                                   
 <br/> Architecture: X86_64<br/>                                
