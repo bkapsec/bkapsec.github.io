@@ -20,12 +20,12 @@ Mail: bkapsec@gmail.com
 --------------------------------------------------
 <a href="https://archive.org/download/TrautechOS/bkapsec-2017.04.26x64.7z">Download</a> and Install !
 Default (User:bkap / Password:root)
---------------------------------------------------
+
 
 
  <i><br/>  OS Type: Linux <br/>                                     
 <i> <br/>  Based on: Debian<br/>                                       
-<i><br/>   Origin: Vìet Nam<br/>                                   
+<i><br/>   Origin: Viet Nam<br/>                                   
 <i><br/>   Architecture: X86_64<br/>                                
 <i><br/>   Desktop: Mate Desktop , Gnome<br/>                           
 <i><br/>   Category: Desktop, Security<br/>                       
