@@ -22,16 +22,16 @@ Mail: bkapsec@gmail.com
 Default (User:bkap / Password:root)
 --------------------------------------------------
 
-##################################################
-<br/> OS Type: Linux<br/>                                      
-<br/> Based on: Debian<br/>                                       
-<br/> Origin: Vìet Nam<br/>                                   
-<br/> Architecture: X86_64<br/>                                
-<br/> Desktop: Mate Desktop , Gnome<br/>                           
-<br/> Category: Desktop, Security<br/>                       
-<br/> Release Model: Fixed<br/>              
-<br/>  Status: Active<br/>           
-----------------------------------------------------
+
+<i> OS Type: Linux<br/>                                      
+<i> Based on: Debian<br/>                                       
+<i> Origin: Vìet Nam<br/>                                   
+<i> Architecture: X86_64<br/>                                
+<i> Desktop: Mate Desktop , Gnome<br/>                           
+<i> Category: Desktop, Security<br/>                       
+<i> Release Model: Fixed<br/>              
+<i> Status: Active<br/>           
+
 
 AhsMBQkJZgGAAAoJEPuBHb1p2hqMke8P/0+O0WYVhBOuzi4V1KBuVZW1CeWNngM/
 dEugOZn4GX+MdMPiVuM34LAxcZUWfdhLs1ebsGOKcUSn+aa6xYfotnhWGxxWUoRs
