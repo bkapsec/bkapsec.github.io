@@ -29,7 +29,7 @@ Default (User:bkap / Password:root)
     #        (__)\       )\/\
     #            ||----w |
     #            ||     ||
-****************************************
+# ****************************************
 OS Type: Linux                                             
 Based on: Debian                                           
 Origin: Vìet Nam                                           
@@ -38,7 +38,7 @@ Desktop: Mate Desktop , Gnome                             
 Category: Desktop, Security                                
 Release Model: Fixed                                       
 Status: Active                                             
-****************************************
+#****************************************
 D7cjq3TtraAicUs2yr0YdCiGHU71KGAMwhQIKZ7IxqUcVwDNTxd3wSVeC6GdRph4
 5htgIWY3GTw7sjMdkFtZK8QsnmfCuIm+GYGiDqT63lpsBwle0KG3GgvU29OZD91G
 323jsXHK+tw4Dvx2lpGfZ+1lNxFZWhLvSjllkNRtkBHOA5BKYOC9EaPktKdq25Ou
