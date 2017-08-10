@@ -30,14 +30,14 @@ Default (User:bkap / Password:root)
     #            ||----w |
     #            ||     ||
 
-OS Type: Linux<br/>                                           
-Based on: Debian<br/>                                       
-Origin: Vìet Nam<br/>                                   
-Architecture: X86_64<br/>                                
-Desktop: Mate Desktop , Gnome<br/>                           
-Category: Desktop, Security<br/>                       
-Release Model: Fixed<br/>              
-Status: Active<br/>           
+<br/> OS Type: Linux<br/>                                      
+<br/> Based on: Debian<br/>                                       
+<br/> Origin: Vìet Nam<br/>                                   
+<br/> Architecture: X86_64<br/>                                
+<br/> Desktop: Mate Desktop , Gnome<br/>                           
+<br/> Category: Desktop, Security<br/>                       
+<br/> Release Model: Fixed<br/>              
+<br/>  Status: Active<br/>           
 
 D7cjq3TtraAicUs2yr0YdCiGHU71KGAMwhQIKZ7IxqUcVwDNTxd3wSVeC6GdRph4
 5htgIWY3GTw7sjMdkFtZK8QsnmfCuIm+GYGiDqT63lpsBwle0KG3GgvU29OZD91G
