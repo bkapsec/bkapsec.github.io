@@ -22,13 +22,13 @@ Mail: bkapsec@gmail.com
 Default (User:bkap / Password:root)
 
   
- ____  _  ______  _____ ____ 
-| __ )| |/ / ___|| ____/ ___|
-|  _ \| ' /\___ \|  _|| |    
-| |_) | . \ ___) | |__| |___ 
-|____/|_|\_\____/|_____\____|
+ ____  _  ______  _____ ____ <br/>  
+| __ )| |/ / ___|| ____/ ___| <br/>  
+|  _ \| ' /\___ \|  _|| |      <br/>  
+| |_) | . \ ___) | |__| |___    <br/>  
+|____/|_|\_\____/|_____\____|     <br/>  
                              
-  <br/> OS Type: Linux<br/>                                      
+<br/> OS Type: Linux<br/>                                      
 <br/> Based on: Debian<br/>                                       
 <br/> Origin: Vìet Nam<br/>                                   
 <br/> Architecture: X86_64<br/>                                
